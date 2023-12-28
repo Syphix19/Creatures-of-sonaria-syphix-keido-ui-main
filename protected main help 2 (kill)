@@ -279,4 +279,3 @@ local args = {
                                                 }
                                             }
                                             game.ReplicatedStorage:WaitForChild("Remotes"):WaitForChild("CharactersDamageRemote"):FireServer(unpack(args))
-wait(1)
